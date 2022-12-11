@@ -1,0 +1,35 @@
+.jango h1{
+  color: orange;
+  border: 2px solid rgb(142, 142, 158);
+  background-color: azure;
+  padding: 10px;
+  font-weight: bolder;
+}
+.jango h1:hover{
+    color: #fff;;
+    background-color: rgb(68, 68, 68);
+}
+.mutate button{
+  background-color: orange;
+  color: black;
+  font-size: large;
+  border-radius: 10px;
+  padding: 10px;
+}
+.mutate button:hover{
+  background-color:azure;
+  color: black;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: bold;
+  text-transform:uppercase;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.liking button{
+  padding: 10px;
+  border-radius: 10px;
+  border-color:crimson;
+  background-color: rgb(177, 92, 106);
+  font-size: large;
+  font-weight: bold;
+}
